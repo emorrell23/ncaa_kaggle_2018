@@ -1,4 +1,4 @@
-# ncaa_kaggle_2018
+# March Madness Kaggle Competition
 ## Using machine learning to predict the 2018 NCAA tournament
 
 This repository is for my entry into the 2018 Machine Learning Kaggle competition for the Men's NCAA Tournament. The goal for the competition was to use historical college basketball data to build a machine learning model to predict the probability of a team winning every possible matchup in this year's tournament. 
