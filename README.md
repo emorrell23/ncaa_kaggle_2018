@@ -7,6 +7,6 @@ I used game by game data for every regular season and tournament game since 1985
 
 Once I had all of that data I was able to build my model (I used a Gradient Boost Classifier) and input the teams that made the tournament to predict the probability of each team winning a game against every other potential opponent. Each submission was evaluated on the log loss of the model, where a smaller log loss is better. Log loss provides extreme punishment for being both confident and wrong, but more reward if the model is both confident and correct. 
 
-My entry finished with a log loss of 0.5385 and was 114th out of 934 entries (top 12%).
+My entry finished with a log loss of 0.5385 and was 114th out of 934 entries (top 12%). It correctly predicted 3 of the 4 Final Four teams (Michigan, Kansas and Villanova) and correctly precicted Villanova to win.
 
 For more info on how I went about this, please check out my code (Kaggle 2018 NCAA.ipynb)
